@@ -1,0 +1,14 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    color: rgb(11, 11, 185);
+    font-size: 50px;
+    margin: 10px;
+    background-color: crimson;
+}
+body {
+    background-image: url("https://images.fabric.com/images/693/693/0427294.jpg")
+}
+canvas {
+    margin-left: 60px;
+}
